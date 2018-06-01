@@ -1,0 +1,4 @@
+version: "v3.0"
+name: A C project.
+semaphore_image: standard
+
