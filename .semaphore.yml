@@ -2,7 +2,7 @@ version: "v1.0"
 name: Using cmd_file.
 semaphore_image: standard
 blocks:
- - name: Calling external text file
+ - name: Calling text file
    build:
       jobs:
         - name: Using command_file
