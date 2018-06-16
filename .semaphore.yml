@@ -6,7 +6,7 @@ blocks:
    build:
       jobs:
         - name: Using command_file
-          cmd_file: /home/runner/goDemo/command_file
+          cmd_file: command_file
       prologue:
           commands:
             - checkout
