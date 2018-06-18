@@ -12,5 +12,5 @@ blocks:
             - checkout
             - cd $SEMAPHORE_GIT_DIR
       epilogue:
-          cmd_file: command_file
+          cmd_file: command_file_elilogue
 
